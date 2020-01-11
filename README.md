@@ -10,12 +10,6 @@ It could probably work better
 
 But this took me a day and cost me nothing
 
-Also, if you need your header to work on mobile, add
-
->.header-image-bg {
-background-position: center center;
-}
-
-to style.css
+Also Ad Blockers make the banner section load wrong
 
 have a great day %^
